@@ -1,8 +1,8 @@
 # Olá, eu sou Rogério Menegueli 👋
 
-Estudante de **Engenharia Elétrica no IFSP**, em São Paulo, com projetos que conectam controle, automação, sistemas embarcados e desenvolvimento de software.
+Graduando em **Engenharia Elétrica pelo IFSP**, com atuação e interesse nas áreas de **controle e automação, sistemas embarcados, eletrônica e desenvolvimento de software**.
 
-Gosto de transformar conceitos de engenharia em implementações verificáveis: modelos MATLAB/Simulink, firmware para ESP32 e ESP8266, aplicativos Android e ferramentas em Python, Java e C++.
+Meu foco está na integração entre **hardware, software e sistemas de controle**, com projetos envolvendo **MATLAB/Simulink, microcontroladores e máquinas elétricas**. Atualmente, desenvolvo meu projeto de conclusão de curso na área de **controle de motores de indução aplicado a veículos elétricos**.
 
 ## Projetos em destaque
 
