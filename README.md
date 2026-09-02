@@ -8,12 +8,12 @@ Meu foco está na integração entre **hardware, software e sistemas de controle
 
 | Projeto | Tecnologias | Resultado |
 | --- | --- | --- |
-| [Controle de motor de indução](https://github.com/Darkramuza/tcc-controle-motor-inducao) | MATLAB, Simulink, FOC, V/f | Plataforma de comparação para tração veicular com cenários, métricas e validações físicas |
-| [Computação Móvel e IoT](https://github.com/Darkramuza/projetos-computacao-movel) | Android, Java, ESP32, ESP8266, MQTT | Aplicativos e firmwares para telemetria, Bluetooth, sensores e localização |
-| [Processamento Digital de Imagens](https://github.com/Darkramuza/processamento-digital-de-imagens) | MATLAB, FFT, filtros, CNN | 30 scripts revisados, resultados visuais e experimentos reproduzíveis |
-| [Classificação de obesidade com MLP](https://github.com/Darkramuza/classificacao-obesidade-mlp) | Python, scikit-learn, MLP | Pipeline sem vazamento de dados e 92,90% de acurácia balanceada média |
-| [Gerenciador de tarefas](https://github.com/Darkramuza/gerenciador-tarefas-java) | Java 17, Swing | Aplicação desktop com persistência atômica e teste automatizado |
-| [Sistema de restaurante](https://github.com/Darkramuza/restaurante-pedidos-c) | C++17, CMake | Gestão de pedidos, persistência, relatório e teste de ponta a ponta |
+| [Controle de motor de indução](https://github.com/r-menegueli/tcc-controle-motor-inducao) | MATLAB, Simulink, FOC, V/f | Plataforma de comparação para tração veicular com cenários, métricas e validações físicas |
+| [Computação Móvel e IoT](https://github.com/r-menegueli/projetos-computacao-movel) | Android, Java, ESP32, ESP8266, MQTT | Aplicativos e firmwares para telemetria, Bluetooth, sensores e localização |
+| [Processamento Digital de Imagens](https://github.com/r-menegueli/processamento-digital-de-imagens) | MATLAB, FFT, filtros, CNN | 30 scripts revisados, resultados visuais e experimentos reproduzíveis |
+| [Classificação de obesidade com MLP](https://github.com/r-menegueli/classificacao-obesidade-mlp) | Python, scikit-learn, MLP | Pipeline sem vazamento de dados e 92,90% de acurácia balanceada média |
+| [Gerenciador de tarefas](https://github.com/r-menegueli/gerenciador-tarefas-java) | Java 17, Swing | Aplicação desktop com persistência atômica e teste automatizado |
+| [Sistema de restaurante](https://github.com/r-menegueli/restaurante-pedidos-c) | C++17, CMake | Gestão de pedidos, persistência, relatório e teste de ponta a ponta |
 
 ## Tecnologias
 
