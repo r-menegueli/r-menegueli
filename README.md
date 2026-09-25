@@ -66,6 +66,6 @@ Atuo com foco na integração entre **Engenharia Elétrica, Controle & Automaç�
 ### 📬 Contato & Conexões
 
 - 📍 **Localização:** Sertãozinho / Pontal - SP, Brasil
-- ✉️ **E-mail:** [darkramuza9999@gmail.com](mailto:darkramuza9999@gmail.com)
+- ✉️ **E-mail:** [rogeriomenegueli9999@gmail.com](mailto:rogeriomenegueli9999@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/r-menegueli](https://www.linkedin.com/in/r-menegueli)
 - 🎓 **Formação:** Instituto Federal de São Paulo (IFSP - Campus Sertãozinho)
