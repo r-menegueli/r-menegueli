@@ -2,9 +2,7 @@
 
 Graduando do **10º semestre de Engenharia Elétrica** pelo **Instituto Federal de São Paulo (IFSP - Campus Sertãozinho)**, com conclusão prevista para **dezembro de 2026**.
 
-Atuo com foco na integração entre **Engenharia Elétrica, Controle & Automação, Sistemas Embarcados e Desenvolvimento de Software**, unindo modelagem analítica, simulação computacional, projetos em CAD elétrico e validação prática em bancada.
-
-Possuo experiência prática em **validação, montagem e testes funcionais de placas eletrônicas (PCB) e microcontroladores**, adquirida em estágio na **Syntrac Smart System**.
+Atuo com foco na integração entre **Engenharia Elétrica, Controle & Automação, Sistemas Embarcados e Desenvolvimento de Software**, unindo modelagem analítica, simulação computacional, projetos em CAD elétrico e validação prática em bancada de laboratório.
 
 ---
 
