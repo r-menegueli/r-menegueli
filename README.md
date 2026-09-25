@@ -10,7 +10,7 @@ Atuo com foco na integração entre **Engenharia Elétrica, Controle & Automaç�
 - **Acionamentos Elétricos & Mobilidade Elétrica:** Modelagem e controle escalar (V/f) e vetorial (FOC) de motores de indução trifásicos aplicados a veículos elétricos.
 - **Controle & Automação:** Modelagem de sistemas dinâmicos, controle em malha fechada, controladores PID, sintonia e inversores de frequência.
 - **Sistemas Embarcados & IoT:** Programação em C/C++, microcontroladores (ESP32, ESP8266, Arduino), protocolos industriais e telemetria (MQTT, Bluetooth, SPI, I2C, UART).
-- **Projetos Elétricos & CAD:** Elaboração e documentação técnica completa em AutoCAD (diagramas unifilares, trifilares, funcionais, CCM, painéis com CLP e inversores).
+- **Projetos Elétricos & CAD:** Elaboração e documentação técnica completa em AutoCAD (12 projetos e 80 pranchas A3: Subestação de Média Tensão 13,8 kV, Grupo Moto-Gerador 250 kVA com QTA e USCA, diagramas unifilares, trifilares, funcionais, CCM, painéis com CLP e inversores).
 - **Processamento de Sinais & Computação Aplicada:** Simulações em MATLAB/Simulink e algoritmos em Python para análise espectral, visão computacional e machine learning.
 
 ---
@@ -29,7 +29,7 @@ Atuo com foco na integração entre **Engenharia Elétrica, Controle & Automaç�
 | Projeto | Áreas & Tecnologias | Descrição / Destaques |
 | :--- | :--- | :--- |
 | ⚡ [**Controle de Motor de Indução (TCC)**](https://github.com/r-menegueli/tcc-controle-motor-inducao) | MATLAB, Simulink, FOC, V/f, SVPWM | Plataforma de comparação para tração veicular com cenários, métricas de desempenho e validações físicas. |
-| 📐 [**Portfólio de Engenharia Elétrica em CAD**](https://github.com/r-menegueli/portfolio-autocad-engenharia-eletrica) | AutoCAD, DXF, Projetos Elétricos, Automação | 10 projetos técnicos completos com 68 pranchas A3 padronizadas (painel com inversor, CLP, CCM, subestação, solar fotovoltaico). |
+| 📐 [**Portfólio de Engenharia Elétrica em AutoCAD**](https://github.com/r-menegueli/portfolio-autocad-engenharia-eletrica) | AutoCAD, DXF, Projetos Elétricos, Automação | **12 projetos completos e 80 pranchas A3** padronizadas: **Subestação de Média Tensão 13,8 kV (500 kVA, Malha NBR 15751 e SPDA NBR 5419)**, **Grupo Moto-Gerador Diesel de Emergência 250 kVA com QTA e USCA**, painel com inversor, CLP, CCM, instalações industriais/residenciais, solar fotovoltaico e veículo elétrico. |
 | 📡 [**Computação Móvel e IoT**](https://github.com/r-menegueli/projetos-computacao-movel) | ESP32, ESP8266, MQTT, Bluetooth, Android/Java | Firmwares e aplicativos móveis para telemetria em tempo real, monitoramento de sensores e controle de atuadores. |
 | 👁️ [**Processamento Digital de Imagens**](https://github.com/r-menegueli/processamento-digital-de-imagens) | MATLAB, FFT, Filtragem Espacial, CNN | Conjunto de mais de 30 scripts práticos de processamento de sinais e imagens, transformadas de Fourier e redes neurais. |
 | 🧠 [**Classificação de Obesidade com MLP**](https://github.com/r-menegueli/classificacao-obesidade-mlp) | Python, Scikit-Learn, MLP, Pandas | Pipeline preditivo rigoroso sem vazamento de dados (*data leakage*), validação cruzada k-fold e 92,90% de acurácia balanceada. |
