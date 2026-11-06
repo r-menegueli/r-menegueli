@@ -9,7 +9,7 @@ Meu foco acadêmico e de portfólio reúne estudos de **Engenharia Elétrica, Co
 ### 🎯 Foco de Atuação & Pesquisa
 - **Acionamentos & mobilidade elétrica:** estudo comparativo de controles V/f e FOC para motor de indução em MATLAB/Simulink; resultados são computacionais, sem validação experimental.
 - **CLP & automação:** protótipo de lógica ST para sequência de transferência QTA e controle PID, com testes de simulação; artefatos PLCopen/QElectroTech ainda são rascunhos sem validação em ambiente de fabricante.
-- **Documentação elétrica CAD:** portfólio com 12 estudos conceituais e 81 pranchas A3 editáveis em DXF, incluindo instalações, painéis, automação e energia. Os desenhos não são projetos executivos liberados para obra.
+- **Documentação elétrica CAD:** portfólio com 12 estudos conceituais e pranchas A3 editáveis em DXF, incluindo instalações, painéis, automação e energia. Os desenhos não são projetos executivos liberados para obra.
 - **Hardware/PCB:** estudo separado de condicionamento analógico 4–20 mA e arquitetura pretendida. O esquema KiCad permanece vazio e o layout é apenas um contorno, sem placa ou arquivos de fabricação.
 - **BIM/MEP:** modelo volumétrico preliminar com caixas de equipamentos; não contém IFC, LOD 350, detecção de interferências ou quantitativos de instalações.
 
@@ -29,14 +29,14 @@ Meu foco acadêmico e de portfólio reúne estudos de **Engenharia Elétrica, Co
 | Projeto | Áreas & Tecnologias | Descrição / Destaques |
 | :--- | :--- | :--- |
 | ⚡ [**Controle de Motor de Indução (TCC)**](https://github.com/r-menegueli/tcc-controle-motor-inducao) | MATLAB, Simulink, FOC, V/f, SVPWM | Estudo computacional comparativo com cenários e métricas; sem validação experimental. |
-| 📐 [**Portfólio de Engenharia Elétrica em AutoCAD**](https://github.com/r-menegueli/portfolio-autocad-engenharia-eletrica) | DXF, CAD, documentação elétrica | **12 estudos conceituais e 81 pranchas A3**, revisão gráfica 01, incluindo subestação, QTA/GMG, painéis, instalações, solar e veículo elétrico. Não são desenhos executivos aprovados. |
+| 📐 [**Portfólio de Engenharia Elétrica em AutoCAD**](https://github.com/r-menegueli/portfolio-autocad-engenharia-eletrica) | DXF, CAD, documentação elétrica | **12 estudos conceituais** em pranchas DXF A3, incluindo subestação, QTA/GMG, painéis, instalações, solar e veículo elétrico. Não são desenhos executivos aprovados. |
 | 🏭 [**Automação Industrial CLP & SCADA**](https://github.com/r-menegueli/automacao-clp-scada-iec61131) | Structured Text, lógica de controle, simulação | Protótipo testável de sequência QTA e PID; PLCopen é rascunho e as páginas QElectroTech estão incompletas. |
 | 🔌 [**Estudo de Hardware Industrial**](https://github.com/r-menegueli/hardware-pcb-kicad-industrial) | LTspice, entrada 4–20 mA, arquitetura de I/O | Simulação isolada de shunt/filtro e esqueleto KiCad; sem esquema completo, placa roteada, Gerbers ou BOM/CPL de produção. |
 | 🏗️ [**Estudo volumétrico BIM/MEP**](https://github.com/r-menegueli/modelagem-bim-3d-eletrica-mep) | FreeCAD, volumetria de equipamentos | Caixas volumétricas preliminares; sem IFC, LOD, checagem de interferências ou quantitativos de instalações. |
-| 📡 [**Computação Móvel e IoT**](https://github.com/r-menegueli/projetos-computacao-movel) | ESP32, ESP8266, MQTT, Bluetooth, Android/Java | Firmwares e aplicativos móveis para telemetria em tempo real, monitoramento de sensores e controle de atuadores. |
-| 👁️ [**Processamento Digital de Imagens**](https://github.com/r-menegueli/processamento-digital-de-imagens) | MATLAB, FFT, Filtragem Espacial, CNN | Conjunto de mais de 30 scripts práticos de processamento de sinais e imagens, transformadas de Fourier e redes neurais. |
-| 🧠 [**Classificação de Obesidade com MLP**](https://github.com/r-menegueli/classificacao-obesidade-mlp) | Python, Scikit-Learn, MLP, Pandas | Pipeline preditivo rigoroso sem vazamento de dados (*data leakage*), validação cruzada k-fold e 92,90% de acurácia balanceada. |
-| 💻 [**Sistema de Pedidos em C++**](https://github.com/r-menegueli/restaurante-pedidos-c) | C++17, CMake, Algoritmos & Estruturas | Gestão de pedidos orientada a objetos com persistência em arquivos, relatórios e testes de ponta a ponta. |
+| 📡 [**Computação Móvel e IoT**](https://github.com/r-menegueli/projetos-computacao-movel) | ESP32, ESP8266, MQTT, Bluetooth, Android/Java | Exercícios Android e demonstrações MQTT/Bluetooth com microcontroladores; alguns fluxos exigem hardware e configuração próprios. |
+| 👁️ [**Processamento Digital de Imagens**](https://github.com/r-menegueli/processamento-digital-de-imagens) | MATLAB, FFT, Filtragem Espacial, CNN | Coleção acadêmica com 30 scripts MATLAB sobre intensidade, filtros espaciais e em frequência e CNN; os conjuntos externos da CNN são pequenos. |
+| 🧠 [**Classificação de Obesidade com MLP**](https://github.com/r-menegueli/classificacao-obesidade-mlp) | Python, Scikit-Learn, MLP, Pandas | Baseline acadêmica com validação cruzada e acurácia balanceada média de 92,90%; usa 108 amostras e não serve para diagnóstico. |
+| 💻 [**Sistema de Pedidos em C++**](https://github.com/r-menegueli/restaurante-pedidos-c) | C++17, CMake, Algoritmos & Estruturas | Aplicação de terminal com persistência local, relatório de vendas e teste automatizado de fumaça para um fluxo principal. |
 
 ---
 
