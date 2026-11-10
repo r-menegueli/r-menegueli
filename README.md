@@ -8,7 +8,7 @@ Os repositórios registram o que foi desenvolvido e os limites de cada estudo. O
 
 | Projeto | Resumo |
 | --- | --- |
-| [Portfólio de Engenharia Elétrica em AutoCAD](https://github.com/r-menegueli/portfolio-autocad-engenharia-eletrica) | 22 estudos e 110 pranchas A3 em DXF, PDF, SVG e PNG. Cada pasta apresenta as premissas e o escopo do desenho. |
+| [Portfólio de Engenharia Elétrica em AutoCAD](https://github.com/r-menegueli/portfolio-autocad-engenharia-eletrica) | 25 estudos e 140 pranchas A3 em DXF, PDF, SVG e PNG. Cada pasta apresenta as premissas e o escopo do desenho. |
 | [Comparação de controles V/f e FOC](https://github.com/r-menegueli/tcc-controle-motor-inducao) | Plataforma acadêmica MATLAB/Simulink para motor de indução. Os parâmetros são provisórios e os resultados são computacionais. |
 | [Automação com CLP](https://github.com/r-menegueli/automacao-clp-scada-iec61131) | Exemplos em Structured Text, simulador discreto em Python e mapa Modbus; sem validação em CLP físico. |
 | [Estudo de hardware e PCB](https://github.com/r-menegueli/hardware-pcb-kicad-industrial) | Proposta de entrada 4–20 mA e I/O industrial. O esquema, a placa e os arquivos de fabricação ainda são rascunhos. |
